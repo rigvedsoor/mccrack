@@ -1,0 +1,8 @@
+Download start
+Download failed:
+System.ArgumentException: Bad updateIdentity
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
